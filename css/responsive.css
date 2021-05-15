@@ -1,0 +1,78 @@
+@media only screen and (max-width: 1199px){
+    .container > .row{margin: 0;}
+    .clock-inner li{padding: 40px 30px;}
+    .trainer-image figure{width: 212px;}
+    .client-image figure{width: 109px;}
+    .client-desc h4{margin-bottom: 10px;}
+    .blog-content{padding: 36px 30px;}
+    .blog-img figure{width: 470px;height: 100%;}
+    .contact-info li address,.contact-number a,.contact-number span{font-size: 18px;line-height: 25px;}
+    .contact-info li i{font-size: 20px;}
+    .contact-info li address, .contact-info li .contact-number{width: calc(100% - 40px);}
+    .contact-info{margin-bottom: 30px;}
+    .client-info{padding: 25px 25px;}
+    .reach-us address{width: calc(100% - 19px) !important;vertical-align: middle;}
+    .serivces-link{top: 72px !important;}
+    .social-icon a{margin-right: 25px;}
+    .gallery-info figure{width: 227px;}
+    .indian-product{min-height: 377px;padding: 20px 10px;}
+    .indian-product span i,.indian-product p{margin-bottom: 0;}
+    .component figure{width: 100%;height: 100%;}
+}
+
+@media only screen and (max-width: 991px){
+    .banner-caption {padding-top: 0em;}
+    .banner-btn .btn {padding: 9px 10px;     margin-bottom: 5px;}
+    .owl-banner.banner .item figure {height: 700px;}
+    .banner-divider {margin-top: -262px;}
+    .banner-content h2 {    font-size: 30px;line-height: 29px;}
+    .banner-caption h3 {font-size: 17px;padding-bottom: 0px;}
+    .banner-caption2 h2 {padding-top: 4em;}
+    .banner3-img-sec .left-text p { margin-top:8em; width: 129px;height: 58px;font-size: 35px;    padding-top: 14px;}
+    .banner3-img-sec .right-text p {    margin-top: 3em; width: 202px; height: 56px;font-size: 32px; padding-top: 15px;}
+    .banner2-img {    padding-top: 9em; height: 52em !important;background-size: contain;}
+    .banner2-img .left-text-banner2 p {width: 105px;height: 54px; font-size: 25px;padding-top: 13px;}
+    .banner2-img .right-text-banner2 p { width: 119px;height: 50px;font-size: 25px; padding-top: 12px;}
+    /*.right-text-banner2 {padding-top: 23em !important;}*/
+    .banner-divider {margin-top: -51px;}
+    .banner-caption3 {padding-top: 6em;}
+}
+
+@media only screen and (max-width: 767px){
+    /*index page start*/
+    .fixed {background: #fff;}    
+    .logo img {width: 130px;   padding-top: 22px;}
+    header {padding: 0;}
+    .navbar-toggle {padding: 32px 10px;}
+    .banner-caption h2 {padding-left: 20px;     font-size: 21px;padding-bottom: 0;}
+    .banner-caption h3 {font-size: 15px;padding-left: 20px;line-height: 16px;}
+    .banner-caption {padding-top: 2em;}
+    .banner-btn {padding-left: 20px; z-index: 1}
+    .banner-btn .btn {padding: 8px 5px;     margin-bottom: 3px;}
+    .product-info {font-size: 11px;border: 2px solid #000 !important;}
+    .owl-banner.banner .item figure {height: 650px;}
+    .owl-carousel .owl-item img {padding-top: 40px;}
+    .banner {min-height: 650px;}
+    .banner-divider {margin-top: -78px;}
+    .banner-caption h3 {padding-bottom: 0px; }
+    .banner-caption2{padding-top: 11em}
+    .banner-sec-3 {padding-top: 16em;}
+    .banner-sec-3 {padding-top: 16em;}
+    .banner3-img-sec .left-text {padding-top: 8em;}
+    .banner3-img-sec .right-text {padding-top: 7em !important;}
+    .banner2-img {height: 23em !important;background-size: contain; padding-top: 3em;}
+    .left-text-banner2 p {width: 116px;height: 40px;font-size: 28px;padding-top: 6px;}
+    .right-text-banner2 p {float:right; width: 125px;height: 42px;font-size: 28px;padding-top: 8px;}
+    .right-text-banner2 {padding-top: 173px;}
+    .banner-caption3 {padding-top: 0;     padding-bottom: 15em;}
+    .banner3-img {height: 55em !important;background-size: contain; background-repeat: no-repeat;}
+    .left-text p {width: 88px;height: 40px;font-size: 27px;padding-top: 5px;}
+    .right-text p {width: 127px;height: 42px;font-size: 24px;padding-top: 8px;}
+    .header-menu li{float: left;width: 100%;padding: 0;}
+    .header{padding: 10px 0;}
+    .navbar-nav .open .dropdown-menu>li>a{line-height: 20px;}
+    .banner-content{padding: 0px;}
+
+    /*index page end*/
+
+}
